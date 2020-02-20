@@ -14,9 +14,7 @@ Wilhelm Lenz. As the model can be translatable with students that took electrody
 been widely taught and researched by undergraduate faculties and students interested in ther- mal physics and electrodynamics. 
 One of those undergraduate concepts that we chose for this report is mostly taken from the book ”Thermal Physics” by 
 Daniel V. Schroeder. From this book, we aim to explore the ferromagnetism in the Ising Model from the programming and 
-computational aspects. From here, we considered the effectiveness of our coding and matching results with the theoretical model.
-
-# Here we preview the procedure of implementing the Ising model on Python3. Additional information could be found inside the folder "report".
+computational aspects. From here, we considered the effectiveness of our coding and matching results with the theoretical model. Here we preview the procedure of implementing the Ising model on Python3. Additional information could be found inside the folder "report".
 
 
 # 1 Procedures for the Ising model on 2D:
