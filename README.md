@@ -57,19 +57,18 @@ From the Metropolis algorithm and the correlation function, we use those two pac
 
 # References
 [1] Thomas Ising, Reinhard Folk, Ralph Kenna, Bertrand Berche, Yurij Holo- vatch. The Fate of Ernst Ising and the Fate of his 
-Model. arXiv preprint, arXiv:1706.01764 [physics.hist-ph], 2017.
+Model. arXiv:1706.01764 [physics.hist-ph], 2017.
 
 [2] David J. Griffith. Introduction to electrodynamics. Cambridge University Press, 2017.
 
 [3] Daniel V. Schroeder. An Introduction to Thermal Physics. Pearson, 1st edi- tion, 1999.
 
-[4] Mark Newman, Computational Physics in Python.
+[4] Mark Newman, Computational Physics in Python, CreateSpace Independent Publishing Platform (November 7, 2012).
 
 [5] Wei Cai. ME346A - Introduction to Statistical Mechanics - Handout 12. Ising Model. Stanford University, winter 
-2011CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/ mejn/computational- physics/, 2012.
+2011 CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/mejn/computational-physics/,2012.
 
-[6] Tom Kennedy. University of Arizona, 2008. The Ising model. https://www.math.arizona.edu/ tgk/541/chap1.pdf
+[6] Tom Kennedy. University of Arizona, 2008. The Ising model. https://www.math.arizona.edu/tgk/541/chap1.pdf
 
 [7] Being Critical of Critically in the Brain - Scientific Figure on Research-
-Gate. Available from: https://www.researchgate.net/figure/Correlation- length-as-a-function-of-temperature-for-a-simulation-of-
-the-Ising-Model- Near fig4 225375861 - May 2019
+Gate. Available from: https://www.researchgate.net/figure/Correlation-length-as-a-function-of-temperature-for-a-simulation-of-the-Ising-Model-Nearfig4225375861 - May 2019
