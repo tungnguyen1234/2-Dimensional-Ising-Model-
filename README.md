@@ -6,7 +6,8 @@ Tung D. Nguyen - Department of Physics, Wabash College, IN.
 Professor James Brown - Department of Physics, Wabash College, IN.
 
 
-Abstract: The topic of ferromagnetism has received great attentions for research and developments in science due to its exotic 
+# Abstract: 
+The topic of ferromagnetism has received great attentions for research and developments in science due to its exotic 
 properties and many applica- tions for generators, transformers, telephones, loudspeakers, and magnetic recording devices. 
 Among the researches for this topic, one of the most fundamental pioneer model comes from the work of the Ising model by 
 Wilhelm Lenz. As the model can be translatable with students that took electrodynamics and thermal physics, this topic has 
@@ -15,13 +16,11 @@ One of those undergraduate concepts that we chose for this report is mostly take
 Daniel V. Schroeder. From this book, we aim to explore the ferromagnetism in the Ising Model from the programming and 
 computational aspects. From here, we considered the effectiveness of our coding and matching results with the theoretical model.
 
-# Here we preview the procedure of implementing the Ising model on Python3
-# Additional information could be found inside the folder "report".
+# Here we preview the procedure of implementing the Ising model on Python3. Additional information could be found inside the folder "report".
 
 
-# 1 Procedures:
-# 1.1 Ising model on 2D:
-# 1.1.1 Metropolis algorithm:
+# 1 Procedures for the Ising model on 2D:
+# 1.1 Metropolis algorithm:
 
 The Metropolis Algorithm could be summarize as the following from [3]:
 • Set up a lattice size N and the desired temperature T under consideration
@@ -41,7 +40,7 @@ by only the spinning direction, the ratio of changing from 1 to 2 and back from 
 Boltzmann probabilities. The code for this algorithm is demonstrated in the file ”First_code_on_the_Ising_model.py”
 
 
-# 1.1.2 The correlation function:
+# 1.2 The correlation function:
 
 The correlation function over a distance r is calculated by the formula <a href="https://www.codecogs.com/eqnedit.php?latex=c(r)&space;=&space;\bar{s_i}\bar{s_j}&space;-&space;\bar{s_j}^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?c(r)&space;=&space;\bar{s_i}\bar{s_j}&space;-&space;\bar{s_j}^2" title="c(r) = \bar{s_i}\bar{s_j} - \bar{s_j}^2" /></a>
 
@@ -53,18 +52,26 @@ in the file ”isingmodelgrahics.py”. Then, the part <a href="https://www.code
 the function and the part <a href="https://www.codecogs.com/eqnedit.php?latex=\bar{s_j}^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{s_j}^2" title="\bar{s_j}^2" /></a> are added over each iteration to then averaging j all of those parts together. Finally, we represent the indexes by setting up the command colors in the libraries 
 matplotlib.pyplot and matplotlib.
 
-# 1.1.3 The correlation and temperature graph:
+# 1.3 The correlation and temperature graph:
 
 From the Metropolis algorithm and the correlation function, we use those two packages to find out the correlation length of the corresponding temperature. We incorporate those definitions into the file ”isingmodelgraphics.py” and ex- tract 3 functions inside the new file ”correlation length - temperature.py.” The resulting codes from 3 different temperature ranges are combined in a text file name ”list 0.5 - 3.5.txt.” This is the most extensive piece of computation, as the iteration requires a lot of steps that could take a couple of days to produce the results from a Macbook with Processor 2.9 GHz - Intel Core i7 and Memory of 12 GB - 1600 MHz - DDR3. We process three temperature ranges, one from 0.5 to 1.5, 1.5 and 2.5, and 2.5 and 3.5, with the ranging step is 0.05. In each temperature, we calculate the of the correlation distance function over 10 times the size of the lattice. For each time, we track down the data in the correlation function to obtain the closest lower bond of 1/e. The final closest number was averaged over 10 times the size.
 
 
-References
-[1] Thomas Ising, Reinhard Folk, Ralph Kenna, Bertrand Berche, Yurij Holo- vatch. The Fate of Ernst Ising and the Fate of his Model. arXiv preprint, arXiv:1706.01764 [physics.hist-ph], 2017.
+# References
+[1] Thomas Ising, Reinhard Folk, Ralph Kenna, Bertrand Berche, Yurij Holo- vatch. The Fate of Ernst Ising and the Fate of his 
+Model. arXiv preprint, arXiv:1706.01764 [physics.hist-ph], 2017.
+
 [2] David J. Griffith. Introduction to electrodynamics. Cambridge University Press, 2017.
+
 [3] Daniel V. Schroeder. An Introduction to Thermal Physics. Pearson, 1st edi- tion, 1999.
+
 [4] Mark Newman, Computational Physics in Python.
-[5] Wei Cai. ME346A - Introduction to Statistical Mechanics - Handout 12. Ising Model. Stanford University, winter 2011CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/ mejn/computational- physics/, 2012.
-[6] Tom Kennedy. University of Arizona, 2008. The Ising model.
-https://www.math.arizona.edu/ tgk/541/chap1.pdf
+
+[5] Wei Cai. ME346A - Introduction to Statistical Mechanics - Handout 12. Ising Model. Stanford University, winter 
+2011CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/ mejn/computational- physics/, 2012.
+
+[6] Tom Kennedy. University of Arizona, 2008. The Ising model. https://www.math.arizona.edu/ tgk/541/chap1.pdf
+
 [7] Being Critical of Critically in the Brain - Scientific Figure on Research-
-Gate. Available from:https://www.researchgate.net/figure/Correlation- length-as-a-function-of-temperature-for-a-simulation-of-the-Ising-Model- Near fig4 225375861 - May 2019
+Gate. Available from: https://www.researchgate.net/figure/Correlation- length-as-a-function-of-temperature-for-a-simulation-of-
+the-Ising-Model- Near fig4 225375861 - May 2019
