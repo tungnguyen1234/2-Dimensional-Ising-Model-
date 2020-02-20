@@ -1,7 +1,8 @@
-Ising model report
+# Ising model report
 
 
 Tung D. Nguyen - Department of Physics, Wabash College, IN. 
+// 
 Professor James Brown - Department of Physics, Wabash College, IN.
 
 
