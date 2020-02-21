@@ -69,6 +69,3 @@ Model. arXiv:1706.01764 [physics.hist-ph], 2017.
 2011 CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/mejn/computational-physics/,2012.
 
 [6] Tom Kennedy. University of Arizona, 2008. The Ising model. https://www.math.arizona.edu/tgk/541/chap1.pdf
-
-[7] Being Critical of Critically in the Brain - Scientific Figure on Research-
-Gate. Available from: https://www.researchgate.net/figure/Correlation-length-as-a-function-of-temperature-for-a-simulation-of-the-Ising-Model-Nearfig4225375861 - May 2019
