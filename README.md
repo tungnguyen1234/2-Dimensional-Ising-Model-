@@ -66,6 +66,6 @@ Model. arXiv:1706.01764 [physics.hist-ph], 2017.
 [4] Mark Newman, Computational Physics in Python, CreateSpace Independent Publishing Platform (November 7, 2012).
 
 [5] Wei Cai. ME346A - Introduction to Statistical Mechanics - Handout 12. Ising Model. Stanford University, winter 
-2011 CreateSpace Independent Publishing Platform. http://www-personal.umich.edu/mejn/computational-physics/,2012.
+2011 CreateSpace Independent Publishing Platform. http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf.
 
 [6] Tom Kennedy. University of Arizona, 2008. The Ising model. https://www.math.arizona.edu/tgk/541/chap1.pdf
