@@ -9,10 +9,10 @@ Professor James Brown - Department of Physics, Wabash College, IN.
 # Abstract: 
 The topic of ferromagnetism has received great attentions for research and developments in science due to its exotic 
 properties and many applications for generators, transformers, telephones, loudspeakers, and magnetic recording devices. 
-Among the researches for this topic, one of the most fundamental pioneer model comes from the work of the Ising model by 
-Wilhelm Lenz. As the model can be translatable with students that took electrodynamics and thermal physics, this topic has 
-been widely taught and researched by undergraduate faculties and students interested in thermal physics and electrodynamics. 
-One topic of interest we chose for this report comes from the book ”Thermal Physics” by 
+Among those research topics, the most fundamentally pioneering model came from the work of the Ising model by 
+Wilhelm Lenz. As the model covered undegraduate concepts of electrodynamics and thermal physics, it has 
+been widely taught and researched by undergraduate faculties and students interested in such courses. 
+One framework of interest we chose for this report comes from the book ”Thermal Physics” by 
 Daniel V. Schroeder. Specifically, we follow the theoretical development of this book to explore the ferromagnetism behavior of the Ising Model, under the lens of computational programming. As a result, our codes effetively shows the consistency with the theoretical 2-Dimensional Ising model. Here we preview the procedure of implementing this model on Python3. Additional information could be found inside the folder "report".
 
 
