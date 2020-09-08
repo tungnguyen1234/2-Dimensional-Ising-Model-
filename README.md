@@ -61,9 +61,9 @@ Model. arXiv:1706.01764 [physics.hist-ph], 2017.
 
 [2] David J. Griffith. Introduction to electrodynamics. Cambridge University Press, 2017.
 
-[3] Daniel V. Schroeder. An Introduction to Thermal Physics. Pearson, 1st edi- tion, 1999.
+[3] Daniel V. Schroeder. An Introduction to Thermal Physics. Pearson, 1st edition, 1999.
 
-[4] Mark Newman, Computational Physics in Python, CreateSpace Independent Publishing Platform (November 7, 2012).
+[4] Mark Newman. Computational Physics in Python. CreateSpace Independent Publishing Platform (November 7, 2012).
 
 [5] Wei Cai. ME346A - Introduction to Statistical Mechanics - Handout 12. Ising Model. Stanford University, winter 
 2011 CreateSpace Independent Publishing Platform. http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf.
