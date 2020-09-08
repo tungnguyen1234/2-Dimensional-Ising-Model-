@@ -13,7 +13,7 @@ Among those research topics, the most fundamentally pioneering model came from t
 Wilhelm Lenz. As the model covered undegraduate concepts of electrodynamics and thermal physics, it has 
 been widely taught and researched by undergraduate faculties and students interested in such courses. 
 One framework of interest we chose for this report comes from the book ”Thermal Physics” by 
-Daniel V. Schroeder. Specifically, we follow the theoretical development of this book to explore the ferromagnetism behavior of the Ising Model, under the lens of computational programming. As a result, our codes effetively shows the consistency with the theoretical 2-Dimensional Ising model. Here we preview the procedure of implementing this model on Python3. Additional information could be found inside the folder "report".
+Daniel V. Schroeder. Specifically, we follow the theoretical development of this book to code, simulate, and visualize the ferromagnetism behavior of the Ising Model. As a result, our codes effetively shows great consistency with the theoretical Ising model. Here we preview our implementation of this model on Python3. Additional information could be found inside the folder "report".
 
 
 # 1 Procedures for the Ising model on 2D:
