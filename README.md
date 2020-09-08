@@ -20,6 +20,7 @@ Daniel V. Schroeder. Specifically, we aim to explore the ferromagnetism in the I
 # 1.1 Metropolis algorithm:
 
 The Metropolis Algorithm could be summarize as the following from [3]:
+
 • Set up a lattice size N and the desired temperature T under consideration
 • Set the spins inside the lattice to be one-half up and one-half down under random number 0.5.
 • Start with a random state (i,j) in the lattice.
