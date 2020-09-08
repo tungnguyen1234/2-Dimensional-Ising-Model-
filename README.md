@@ -12,9 +12,8 @@ properties and many applica- tions for generators, transformers, telephones, lou
 Among the researches for this topic, one of the most fundamental pioneer model comes from the work of the Ising model by 
 Wilhelm Lenz. As the model can be translatable with students that took electrodynamics and thermal physics, this topic has 
 been widely taught and researched by undergraduate faculties and students interested in ther- mal physics and electrodynamics. 
-One of those undergraduate concepts that we chose for this report is mostly taken from the book ”Thermal Physics” by 
-Daniel V. Schroeder. From this book, we aim to explore the ferromagnetism in the Ising Model from the programming and 
-computational aspects. From here, we considered the effectiveness of our coding and matching results with the theoretical model. Here we preview the procedure of implementing the Ising model on Python3. Additional information could be found inside the folder "report".
+One topic of interest we chose for this report comes from the book ”Thermal Physics” by 
+Daniel V. Schroeder. Specifically, we aim to explore the ferromagnetism in the Ising Model from the computational programming aspect. As a result, our codes effetively shows the consistency with the theoretical model of the Ising model. Here we preview the procedure of implementing this model on Python3. Additional information could be found inside the folder "report".
 
 
 # 1 Procedures for the Ising model on 2D:
